@@ -1,7 +1,7 @@
 
 
 
-# YOU MIGHT WANT TO CREATE A FOLDER CALLED: "ACCOUNTS.txt"
+# YOU MIGHT WANT TO CREATE A FILE CALLED: "ACCOUNTS.txt"
 
 accounts.txt format: 
 username:password
